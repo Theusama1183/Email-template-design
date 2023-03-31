@@ -13,7 +13,7 @@ body {
     border-right: 1px solid #ddd;
     padding-right: 10px;
 }
-.temp-ul li:before {
+.gmail-temp-ul li:before {
     content: url(https://email-template-by-usama.netlify.app/img/tick-circle.png);
     margin-right: 10px;
 }
